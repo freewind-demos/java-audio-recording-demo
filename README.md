@@ -1,4 +1,4 @@
-Java Hello World Demo
-=====================
+Java Audio Record Demo
+======================
 
 Run `Hello.java` in your IDE.
